@@ -6,7 +6,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Embedded System Engineer",
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Flipkart",
     time: "(May, 2020 - present)",
