@@ -242,4 +242,4 @@ document.addEventListener("DOMContentLoaded", showCards2);
 //   );
 //   hackathonsection.innerHTML = output;
 // };
-document.addEventListener("DOMContentLoaded", showCards3);
+// document.addEventListener("DOMContentLoaded", showCards3);
