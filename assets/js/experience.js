@@ -24,7 +24,7 @@ const exp = [
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "ELectrowaves Electronics",
     time: "(Jan, 2020 - June, 2020)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp:"Developed standalone applications using LabVIEW. <li>To analyse and compare performance of different power devices used in various power converter circuits.</li><li>To compare the yearly savings with the use of different solar panels before installation and analyse the variation in incident solar energy.</li>,
   },
   {
     title: "Summer Intern",
