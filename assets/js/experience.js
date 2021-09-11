@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - present)",
-    desp: "<li> Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121.</li> <li>Worked on developing EV simulator for Bharat DC Charger.</li> <li>Designed Human Machine Interface used in DC Charger.</li> <li>Developed 3kw AC Charger</li>",
+    desp: "Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects! ",
   },
   {
     title: "Graduate Engineer Trainee",
