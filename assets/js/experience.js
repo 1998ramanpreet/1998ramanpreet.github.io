@@ -24,7 +24,7 @@ const exp = [
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "ELectrowaves Electronics",
     time: "(Jan, 2020 - June, 2020)",
-    desp:"Developed standalone applications using LabVIEW to analyse and compare performance of different power devices used in various power converter circuits. To compare the yearly savings with the use of different solar panels before installation and analyse the variation in incident solar energy.",
+    desp:"Developed standalone applications using LabVIEW.<li>To analyse and compare performance of different power devices used in various power converter circuits.</li><li>To compare the yearly savings with the use of different solar panels before installation and analyse the variation in incident solar energy.</li>",
   },
   {
     title: "Summer Intern",
