@@ -31,14 +31,14 @@ const exp = [
     cardImage: "assets/images/experience-page/csiologo.jpeg",
     place: "Central Scientific Instruments Organization (CSIO)",
     time: "(June, 2019 - Aug, 2019)",
-    desp:"<li>Involved in the development of Readout Circuit for Biosenser and thereby making its use in medical applications for cardiac arrest detection.</li>",
+    desp:"Involved in the development of Readout Circuit for Biosenser and thereby making its use in medical applications for cardiac arrest detection.",
   },
     {
     title: "Summer Intern",
     cardImage: "assets/images/experience-page/csiologo.jpeg",
     place: "Central Scientific Instruments Organization (CSIO)",
     time: "(May, 2018 - July, 2018)",
-    desp:"<li>Worked on HMI development and automation for Robotic Rehabilitation and thereby making its use in medical applications for Ankle therapy control.</li>",
+    desp:"Worked on HMI development and automation for Robotic Rehabilitation and thereby making its use in medical applications for Ankle therapy control.",
   },
 ];
 
