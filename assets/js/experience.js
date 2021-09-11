@@ -17,7 +17,7 @@ const exp = [
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Electrowaves Electronics",
     time: "(July, 2020 - Jan, 2021)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Worked on DSP processors for integration of wireless funtionality (Wi-Fi, GSM) and control of CP states to develop AC EV Charging System.</li><li>Also performed hardware testing of EV Charger.</li>",
   },
   {
     title: "Industrial Trainee",
