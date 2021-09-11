@@ -26,6 +26,20 @@ const exp = [
     time: "(Jan, 2020 - June, 2020)",
     desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
+  {
+    title: "Summer Intern",
+    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    place: "Central Scientific Instruments Organization (CSIO)",
+    time: "(June, 2019 - Aug, 2019)",
+    desp:"<li>Involved in the development of Readout Circuit for Biosenser and thereby making its use in medical applications for cardiac arrest detection.</li>",
+  },
+    {
+    title: "Summer Intern",
+    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    place: "Central Scientific Instruments Organization (CSIO)",
+    time: "(May, 2018 - July, 2018)",
+    desp:"<li>Worked on HMI development and automation for Robotic Rehabilitation and thereby making its use in medical applications for Ankle therapy control.</li>",
+  },
 ];
 
 const showCards2 = () => {
