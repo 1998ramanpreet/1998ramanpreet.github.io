@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li> Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121.</li>Worked on Developing EV simulator for Bharat DC Charger. <li>Designed Human Machine Interface used in DC Charger.</li> <li>Developed 3kw AC Charger</li>",
   },
   {
     title: "Graduate Engineer Trainee",
