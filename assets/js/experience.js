@@ -31,7 +31,7 @@ const exp = [
     cardImage: "assets/images/experience-page/csiologo.jpeg",
     place: "Central Scientific Instruments Organization (CSIO)",
     time: "(June, 2019 - Aug, 2019)",
-    desp:"Involved in the development of Readout Circuit for Biosenser to perform CTNI test which predicts the amount of troponin tn the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.",
+    desp:"Involved in the development of Readout Circuit for Biosenser to perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.",
   },
     {
     title: "Summer Intern",
