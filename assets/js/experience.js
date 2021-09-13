@@ -7,21 +7,21 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Embedded System Engineer",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(Feb, 2021 - present)",
     desp: "Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects! ",
   },
   {
     title: "Graduate Engineer Trainee",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "Electrowaves Electronics",
     time: "(July, 2020 - Jan, 2021)",
     desp: "<li>Worked on DSP processors for integration of wireless funtionality (Wi-Fi, GSM) and control of CP states to develop AC EV Charging System.</li><li>Also performed hardware testing of EV Charger.</li>",
   },
   {
     title: "Industrial Trainee",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/ewelogo.jpg",
     place: "ELectrowaves Electronics",
     time: "(Jan, 2020 - June, 2020)",
     desp:"Developed standalone applications using LabVIEW.<li>To analyse and compare performance of different power devices used in various power converter circuits.</li><li>To compare the yearly savings with the use of different solar panels before installation and analyse the variation in incident solar energy.</li>",
