@@ -27,7 +27,7 @@ const projects = [
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light_System",
+    Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light-System",
   },
   {
     title: "Exercise Tracker",
