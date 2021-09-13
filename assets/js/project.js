@@ -19,7 +19,7 @@ const projects = [
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD",
   },
   {
     title: "Smart Street Light System",
@@ -27,7 +27,7 @@ const projects = [
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light_System",
   },
   {
     title: "Exercise Tracker",
