@@ -11,7 +11,7 @@ const projects = [
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors",
   },
   {
     title: "Controlling Orthotic Device using TFT LCD",
