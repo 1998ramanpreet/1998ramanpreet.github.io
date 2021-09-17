@@ -34,8 +34,8 @@ const projects = [
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://github.com/1998ramanpreet/Smart-Street-Light-System",
+    Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light-System",
   },
   {
     title: "Recipe Ingredient Parser",
