@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Read-Out Circuit for Biosensors",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/breadBoardCircuit.jpg",
     description: "Read-Out circuit is used to perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Githublink: "https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors",
@@ -21,7 +21,7 @@ const projects = [
   },
   {
     title: "Smart Street Light System",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/ssls.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light-System",
