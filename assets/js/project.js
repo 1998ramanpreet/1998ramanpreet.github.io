@@ -30,7 +30,7 @@ const projects = [
     Githublink: "https://github.com/1998ramanpreet/Smart-Street-Light-System",
   },
   {
-    title: "Mobile Phone Detection Using Operational Amplifier",
+    title: "Cellphone Detection Using Op-amp",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Practical implementation and analyzation of different circuits used for detection of activated mobile phones i.e. calling and SMS",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
