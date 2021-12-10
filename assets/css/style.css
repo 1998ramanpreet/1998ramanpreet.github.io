@@ -102,7 +102,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow-x: hidden;
-    color: #212529;
+    color: #6c757d;
     font-family: "Poppins", sans-serif;
     background-color: var(--bg);
 }
